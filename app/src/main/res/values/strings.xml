@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tournaments</string>
+    <string name="play">Play</string>
+    <string name="gallery">Gallery</string>
+    <string name="gb_pass">GB Pass</string>
+    <string name="settings">Settings</string>
+</resources>
